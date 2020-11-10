@@ -1,9 +1,6 @@
-This Portfolio is Responsive which can be viewed in different screen widths.
-Consists following Sections :
-Fixed Header & Footer.
-Linking Navbar.
-Home Section.
-About Section.
-Skills Section.
-Projects Section.
-Contact Section.
+PORTFOLIO
+HTML, CSS, JavaScript and Bootstrap
+Built a responsive portfolio website, to showcase details
+about myself, contact information and skills.
+Testing the Mobile Version on a Real Phone.
+EDUCATION
